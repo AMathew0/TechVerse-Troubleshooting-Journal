@@ -28,15 +28,11 @@ Got error: remote origin already exists
 Resolution:
 Verified existing remotes:
 
-powershell
-Copy
-Edit
 git remote -v
 If needed, changed the remote:
 
 powershell
-Copy
-Edit
+
 git remote set-url origin https://github.com/amathew0/TechVerse-Troubleshooting-Journal.git
 Lessons Learned:
 Use git remote -v to inspect existing remotes.
