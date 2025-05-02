@@ -23,9 +23,6 @@
 
 ! [rejected] main -> main (fetch first) error: failed to push some refs to...
 
-markdown
-Copy
-Edit
 2. Found that GitHub repo already had initial commits like `README.md`.
 
 ## Resolution:
